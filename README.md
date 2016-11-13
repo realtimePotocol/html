@@ -1,0 +1,2 @@
+# html
+nginx_html
